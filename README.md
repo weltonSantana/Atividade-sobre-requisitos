@@ -109,4 +109,14 @@ RQ02 - Agendamento de Consulta
 3. O sistema retornará para o passo de numero 6.
 
 
+#Protótipo de Tela
+
+Para o Protótipo de tela de *registro de usuário*, optei por usar um projeto que havia feito à alguns dias com o intuito de aprender e aprimorar minhas habilidades no front-end.
+
+https://weltonsantana.github.io/Tela-de-cadastro-simples/
+
+
+*Agendamento de consulta* - protótipo feito pelo canva, com os passos realizados para o agendamento acontecer:
+
+https://www.canva.com/design/DAFMQVIDgKs/rrmHu6mmmw55fZlfed9UuQ/view?utm_content=DAFMQVIDgKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
