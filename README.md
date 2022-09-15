@@ -25,7 +25,7 @@ Aplicando aos requisitos funcionais teremos:
 
 1. Registro de usuário
   
-  "**Como** um novo usuario do sistema **eu quero** criar uma conta nova, com meu nome completo, email e senha **para que** eu tenha acesso a pagina de login e por conseguinte aos recursos do sistema"
+  "**Como** um novo usuario/cliente do sistema **eu quero** criar uma conta no sistema, com meus dados como email e senha **para que** eu tenha acesso a pagina de login e por conseguinte aos recursos do sistema"
   
 2. Agendamento de consulta
  
