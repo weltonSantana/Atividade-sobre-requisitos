@@ -66,7 +66,7 @@ RQ01 - Registro de Usuários
  
 *FA01* - Botão de logar com uma conta já existente:
 
-1. Na tela de cadastro, o ator irá clicar em um botão no rodapé do formulario escrito "tenho uma conta";
+1. Na tela de cadastro, o ator irá clicar em um botão no rodapé do formulario escrito "logar";
 2. O sistema irá apresentar uma tela de login solicitando e-mail e senha;
 3. O ator preenche os campos de e-mail e senha e confirma a entrada no sistema apertando o botão "Entrar"
 
