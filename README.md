@@ -77,6 +77,7 @@ RQ02 - Agendamento de Consulta
 *Atores:*
   
   Ator principal - Recepcionista;
+
   Ator secundario - Paciente;
 
 *Descrição Geral:*
@@ -109,7 +110,7 @@ RQ02 - Agendamento de Consulta
 3. O sistema retornará para o passo de numero 6.
 
 
-#Protótipo de Tela
+# Protótipo de Tela
 
 Para o Protótipo de tela de *registro de usuário*, optei por usar um projeto que havia feito à alguns dias com o intuito de aprender e aprimorar minhas habilidades no front-end.
 
