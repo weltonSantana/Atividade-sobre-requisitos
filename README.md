@@ -29,7 +29,7 @@ Aplicando aos requisitos funcionais teremos:
   
 2. Agendamento de consulta
  
- "**como** um paciente da clinica **eu quero** agendar uma nova consulta com o clinico geral **para que** eu possa realizar exames de rotina e verificar se a saude está em dia"
+ "**como** um paciente da clinica **eu quero** agendar uma nova consulta facilmente com o clinico geral **para que** eu possa realizar exames de rotina e verificar se a saude está em dia"
   
 
 
