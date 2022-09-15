@@ -6,8 +6,8 @@ Essa atividade tem como objetivo **definir dois requisitos funcionais** de um si
 
 Para essa atividade foi escolhido os seguintes requisitos: 
 
-1. registro de usuário
-2.  Agendamento de consulta
+RQ01 registro de usuário
+RQ02  Agendamento de consulta
 
 
 
@@ -23,11 +23,11 @@ Sendo esse o método mais popular no meio, criado pelo cofundador da Scrum Allia
 
 Aplicando aos requisitos funcionais teremos:
 
-1. Registro de usuário
+RQ01 Registro de usuário
   
   "**Como** um novo usuario/cliente do sistema **eu quero** criar uma conta no sistema, com meus dados como email e senha **para que** eu tenha acesso a pagina de login e por conseguinte aos recursos do sistema"
   
-2. Agendamento de consulta
+RQ02 Agendamento de consulta
  
  "**como** um paciente da clinica **eu quero** agendar uma nova consulta facilmente com o clinico geral **para que** eu possa realizar exames de rotina e verificar se a saude está em dia"
   
