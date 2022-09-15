@@ -61,14 +61,52 @@ RQ01 - Registro de Usuários
   2. O sistema irá apresentar uma tela de cadastro com um breve formulario pedindo como informações, o nome do usuario, o email e a senha;
   3. Após preencher todos os campos corretamente, o ator confirma o cadastro no botão "Cadastrar";
   
- * Campos do Formulário:
+
+*Fluxo alternativo:*
  
-  | Centralizado | Alinhado a direita
-:--------- | :------: | -------:
-Valor | Valor | Valor
- 
- 
+*FA01* - Botão de logar com uma conta já existente:
+
+1. Na tela de cadastro, o ator irá clicar em um botão no rodapé do formulario escrito "tenho uma conta";
+2. O sistema irá apresentar uma tela de login solicitando e-mail e senha;
+3. O ator preenche os campos de e-mail e senha e confirma a entrada no sistema apertando o botão "Entrar"
+
+
+
+RQ02 - Agendamento de Consulta
+
+*Atores:*
   
+  Ator principal - Recepcionista;
+  Ator secundario - Paciente;
+
+*Descrição Geral:*
+ 
+ O Ator-recepcionista tem que acessar o sistema e agendar a consulta do paciente;
+
+*Pré-condição:*
+
+ O Ator-recepcionista precisa estar logado no sistema
+ 
+ *Fluxo Principal:*
+ 
+ 1. O Ator-recepcionista fará login no sistema;
+ 2. O sistema apresentará uma tela com um menu de opções;
+ 3. O ator seleciona a opção de consulta
+ 4. O sistema apresentará uma tela para agendar a consulta;
+ 5. O ator principal informa o CPF do ator secundario(paciente);
+ 6. O sistema mostrará uma tela com os dados do paciente;
+ 7. O ator principal seleciona a opção de agendamento;
+ 8. O sistema mostará uma tela com a data e os horários disponíveis e os respectivos médicos disponíveis;
+ 9. O ator principal seleciona a data e o horario escolhido pelo paciente e clica no botão de confirmar consulta;
+ 10. O sistema exibe uma mensagem de consulta agendada com sucesso.
+ 
+ *Fluxo alternativo:*
+ 
+*FA01* - Ator secundario(paciente) não está cadastrado no sistema:
+
+1. O sistema apresentará uma tela de cadastro de cliente/paciente;
+2. O ator principal(recepecionista) escolhe a opção de cadastrar paciente;
+3. O sistema retornará para o passo de numero 6.
 
 
 
