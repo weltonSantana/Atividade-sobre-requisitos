@@ -6,8 +6,8 @@ Essa atividade tem como objetivo **definir dois requisitos funcionais** de um si
 
 Para essa atividade foi escolhido os seguintes requisitos: 
 
-* registro de usuário
-* Agendamento de consulta
+1. registro de usuário
+2.  Agendamento de consulta
 
 
 
