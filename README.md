@@ -7,6 +7,7 @@ Essa atividade tem como objetivo **definir dois requisitos funcionais** de um si
 Para essa atividade foi escolhido os seguintes requisitos: 
 
 RQ01 registro de usuário
+
 RQ02  Agendamento de consulta
 
 
